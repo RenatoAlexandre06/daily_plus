@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "645428051292",
+    "project_id": "daily-plus-adb31",
+    "storage_bucket": "daily-plus-adb31.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645428051292:android:ca73eb9fdd2cf000bd9599",
+        "android_client_info": {
+          "package_name": "com.example.daily_plus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBclbfkxRbWrD-LUn4QrYVPYE2IQ0GnOHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
